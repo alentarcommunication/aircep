@@ -1,5 +1,2 @@
 # Local form submissions — do not commit
 data/
-
-# Secrets / environment config — copy from config.example.json
-config.json
