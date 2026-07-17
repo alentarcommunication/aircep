@@ -1,0 +1,5 @@
+{
+  "google_sheet_webhook_url": "https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec",
+  "mailerlite_api_key": "YOUR_MAILERLITE_API_TOKEN",
+  "mailerlite_group_id": "YOUR_GROUP_ID"
+}
